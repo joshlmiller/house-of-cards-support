@@ -1,3 +1,3 @@
-# House of Cards Support
+# Card Den Support
 
-Public support and privacy pages for the House of Cards iOS app.
+Public support and privacy pages for the Card Den iOS app.
